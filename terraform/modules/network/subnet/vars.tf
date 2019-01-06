@@ -1,0 +1,9 @@
+variable "name" {}
+variable "project" {}
+variable "region" {}
+variable "network" {}
+variable "ip_range" {}
+variable "enable_flow_logs" {}
+variable "enable_private_ip_google_access" {}
+variable "pod_cidr_range" {}
+variable "service_cidr_range" {}
